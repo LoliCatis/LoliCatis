@@ -7,4 +7,4 @@
 | Русский гид по Hypixel SkyBlock: план прогресса, заработок, цены Bazaar и AH | Конструктор билдов Warframe с оценкой урона | Десктоп-помощник для The Forge |
 | [sky-guide.ru](https://sky-guide.ru) · JavaScript | TypeScript | Dart |
 
-**Стек:** `JavaScript` `TypeScript` `React` `Node.js` `Docker` `Dart` `Python` `Java`
+**Стек:** `JavaScript` `TypeScript` `React` `Node.js` `Docker` `Dart` `Python` `Java` `Vite`
